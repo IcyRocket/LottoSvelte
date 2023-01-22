@@ -1,3 +1,3 @@
 # LottoSvelte
 
-## You will need to install npm before running this project with: "npm install" command. To run this project use: "npm run dev"
+## You will need to install npm in the root folder before running this project: "npm install". To run this project use: "npm run dev" in the root folder
